@@ -1,0 +1,1 @@
+console.log("\nqual é o indice do numero 3 no array: ", numeros.indexOf(3))
